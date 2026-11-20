@@ -40,9 +40,11 @@ Hash extracted:
 **Cracked with:** Johnny, built-in wordlist.
 **Password recovered:** `good-luck`
 
-**Screenshots:**
-- `Screenshots/IMG_5113.jpeg` – Hash extracted via Online Hash Crack
-- `Screenshots/IMG_5107.png` – Password cracked in Johnny
+Hash extracted via Online Hash Crack:
+![Hash extracted via Online Hash Crack](Screenshots/IMG_5113.jpeg)
+
+Password cracked in Johnny:
+![Password cracked in Johnny](Screenshots/IMG_5107.png)
 
 ### Method 2: Networkwalks tools
 Hash extracted:
@@ -52,16 +54,18 @@ Hash extracted:
 **Cracked with:** Networkwalks password cracker, built-in list.
 **Password recovered:** `good-luck`
 
-**Screenshots:**
-- `Screenshots/IMG_5139.jpeg` – Hash extracted via Networkwalks Hash Calculator
-- `Screenshots/IMG_5141.jpeg` – Password match found via Networkwalks password cracker
+Hash extracted via Networkwalks Hash Calculator:
+![Hash extracted via Networkwalks Hash Calculator](Screenshots/IMG_5139.jpeg)
+
+Password match found via Networkwalks password cracker:
+![Password match found via Networkwalks password cracker](Screenshots/IMG_5141.jpeg)
 
 ### Result
 Both methods recovered the same password: `good-luck`
 **Flag captured:** `nw{cybersecurity_flag_captured_2608}`
 
-**Screenshot:**
-- `Screenshots/IMG_5142.jpeg` – Unlocked PDF showing captured flag
+Unlocked PDF showing captured flag:
+![Unlocked PDF showing captured flag](Screenshots/IMG_5142.jpeg)
 
 ---
 
@@ -75,9 +79,11 @@ Hash extracted:
 **Cracked with:** Johnny, built-in wordlist.
 **Password recovered:** `password1`
 
-**Screenshots:**
-- `Screenshots/IMG_5114.jpeg` – Hash extracted via Online Hash Crack
-- `Screenshots/IMG_5108.png` – Password cracked in Johnny
+Hash extracted via Online Hash Crack:
+![Hash extracted via Online Hash Crack](Screenshots/IMG_5114.jpeg)
+
+Password cracked in Johnny:
+![Password cracked in Johnny](Screenshots/IMG_5108.png)
 
 ### Method 2: Networkwalks tools
 Hash extracted:
@@ -87,16 +93,18 @@ Hash extracted:
 **Cracked with:** Networkwalks password cracker, custom uploaded wordlist (`fasttrack.txt`, 221 words).
 **Password recovered:** `password1`
 
-**Screenshots:**
-- `Screenshots/IMG_5138.jpeg` – Hash extracted via Networkwalks Hash Calculator
-- `Screenshots/IMG_5137.jpeg` – Password cracked via Networkwalks password cracker with custom wordlist
+Hash extracted via Networkwalks Hash Calculator:
+![Hash extracted via Networkwalks Hash Calculator](Screenshots/IMG_5138.jpeg)
+
+Password cracked via Networkwalks password cracker with custom wordlist:
+![Password cracked via Networkwalks password cracker with custom wordlist](Screenshots/IMG_5137.jpeg)
 
 ### Result
 Both methods recovered the same password: `password1`
 **Flag captured:** `nw{networkwalks_persistence_jtr_270521}`
 
-**Screenshot:**
-- `Screenshots/IMG_5143.jpeg` – Unlocked PDF showing captured flag
+Unlocked PDF showing captured flag:
+![Unlocked PDF showing captured flag](Screenshots/IMG_5143.jpeg)
 
 ---
 
@@ -110,9 +118,11 @@ Hash extracted:
 **Cracked with:** Johnny, built-in wordlist.
 **Password recovered:** `1qaz2wsx`
 
-**Screenshots:**
-- `Screenshots/IMG_5115.jpeg` – Hash extracted via Online Hash Crack
-- `Screenshots/IMG_5109.png` – Password cracked in Johnny
+Hash extracted via Online Hash Crack:
+![Hash extracted via Online Hash Crack](Screenshots/IMG_5115.jpeg)
+
+Password cracked in Johnny:
+![Password cracked in Johnny](Screenshots/IMG_5109.png)
 
 ### Method 2: Networkwalks tools
 Hash extracted:
@@ -122,16 +132,18 @@ Hash extracted:
 **Cracked with:** Networkwalks password cracker, built-in list.
 **Password recovered:** `1qaz2wsx`
 
-**Screenshots:**
-- `Screenshots/IMG_5140.jpeg` – Hash extracted via Networkwalks Hash Calculator
-- `Screenshots/IMG_5144.jpeg` – Password match found via Networkwalks password cracker
+Hash extracted via Networkwalks Hash Calculator:
+![Hash extracted via Networkwalks Hash Calculator](Screenshots/IMG_5140.jpeg)
+
+Password match found via Networkwalks password cracker:
+![Password match found via Networkwalks password cracker](Screenshots/IMG_5144.jpeg)
 
 ### Result
 Both methods recovered the same password: `1qaz2wsx`
 **Flag captured:** `nw{networkwalks_flag_260821_1}`
 
-**Screenshot:**
-- `Screenshots/IMG_5145.jpeg` – Unlocked PDF showing captured flag
+Unlocked PDF showing captured flag:
+![Unlocked PDF showing captured flag](Screenshots/IMG_5145.jpeg)
 
 ---
 
